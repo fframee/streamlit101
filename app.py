@@ -11,7 +11,7 @@ device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     
 ## Load your model from the Hub
 model_reloaded = timm.create_model(
-    'hf_hub:ceram1324/my-finetuned-mobilenetv3',
+    "put your own checkpoint here ...",
     pretrained=True
 )
 model = model_reloaded.eval()
