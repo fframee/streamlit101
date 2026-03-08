@@ -1,13 +1,37 @@
-🌟 **Welcome to our Image Classification with Streamlit Project!** 🖼️🔍
+# 🌟 Image Classification with Streamlit 🖼️🔍
 
-In this repository, we explore the fascinating world of image classification using Streamlit, a simple yet powerful tool for building data apps with Python. With Streamlit, we can create an interactive web application that allows users to upload images and instantly classify them using machine learning models.
+Welcome to the **Image Classification with Streamlit Project**.  
+This project explores how to build a simple and interactive **image classification web application** using **Python** and **Streamlit**.
 
-### What You'll Find:
+With Streamlit, we can quickly create a web interface where users can upload images and see how a machine learning model classifies them. This project demonstrates the basic workflow from running the app locally to experimenting with different models.
 
-1. **Getting Started:** Learn how to set up your environment, install dependencies, and run the Streamlit app locally.
-   
-2. **Upload and Classify Images:** Experience the magic of image classification firsthand by uploading your own images and seeing them categorized by our trained model.
-   
-3. **Fine-Tuning and Evaluation:** Dive deeper into model fine-tuning techniques and evaluate the performance of different models on various datasets.
-   
-4. **Deployment:** Discover how to deploy your image classification app to the web, making it accessible to users worldwide.
+---
+
+## 🚀 Project Features
+
+### 1. Getting Started
+Learn how to prepare your development environment, install the required libraries, and run the Streamlit application on your local machine.
+
+### 2. Upload and Classify Images
+Users can upload their own images through the web interface. The trained model will then analyze the image and display the predicted category.
+
+### 3. Model Fine-Tuning and Evaluation
+This project also shows how to fine-tune image classification models and evaluate their performance using different datasets.
+
+### 4. Deployment
+Instructions are included to help you deploy the application so it can be accessed online by other users.
+
+---
+
+## ⚙️ Environment Requirements
+
+Before running this project, make sure your environment meets the following requirements:
+
+- **Python 3.10** (Required)
+- pip package manager
+- Recommended: virtual environment (`venv` or `conda`)
+
+⚠️ **Important:**  
+This project is built and tested with **Python 3.10**. Other Python versions may cause compatibility issues with some dependencies.
+
+---
